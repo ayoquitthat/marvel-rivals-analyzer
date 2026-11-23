@@ -1,0 +1,17 @@
+# Local database files (rebuilt from schema.sql + insert_data.sql)
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local configuration, if you ever add any
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
